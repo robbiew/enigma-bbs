@@ -1,0 +1,14 @@
+{
+  "name": "enigma-bbs-message_post_evt",
+  "version": "1.0.0",
+  "description": "Event for automated message posting",
+  "main": "message_post_evt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "enigma-bbs"
+  ],
+  "author": "Bryan Ashby (NuSkooler)",
+  "license": "BSD-2-Clause"
+}

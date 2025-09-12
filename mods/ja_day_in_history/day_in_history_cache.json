@@ -1,0 +1,407 @@
+{
+  "date": "2025-09-12",
+  "timestamp": "2025-09-12T01:00:00.001Z",
+  "rawEvents": [
+    {
+      "year": 2024,
+      "text": "Hurricane Francine impacts the Gulf of Mexico, as a Category 2 hurricane.",
+      "type": "event"
+    },
+    {
+      "year": 2023,
+      "text": "The Libyan city of Derna experiences catastrophic floods after Storm Daniel causes two dams to collapse, killing thousands of people.",
+      "type": "event"
+    },
+    {
+      "year": 2015,
+      "text": "A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.",
+      "type": "event"
+    },
+    {
+      "year": 2012,
+      "text": "A total of 315 people are killed in two garment factory fires in Pakistan.",
+      "type": "event"
+    },
+    {
+      "year": 2012,
+      "text": "The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.",
+      "type": "event"
+    },
+    {
+      "year": 2011,
+      "text": "A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
+      "type": "event"
+    },
+    {
+      "year": 2008,
+      "text": "A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.",
+      "type": "event"
+    },
+    {
+      "year": 2007,
+      "text": "Russia tests the largest conventional weapon ever, the Father of All Bombs.",
+      "type": "event"
+    },
+    {
+      "year": 2001,
+      "text": "The September 11 attacks, a series of coordinated terrorist attacks killing 2,977 people using four aircraft hijacked by 19 members of al-Qaeda. Two aircraft crash into the World Trade Center in New York City, a third crashes into The Pentagon in Arlington County, Virginia, and a fourth into a field near Shanksville, Pennsylvania.",
+      "type": "event"
+    },
+    {
+      "year": 1997,
+      "text": "NASA's Mars Global Surveyor reaches Mars.",
+      "type": "event"
+    },
+    {
+      "year": 1997,
+      "text": "Kurkse tragedy: Fourteen Estonian soldiers of the Baltic Battalion are drowned or die of hypothermia during a training exercise in the Kurkse Strait.",
+      "type": "event"
+    },
+    {
+      "year": 1997,
+      "text": "After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.",
+      "type": "event"
+    },
+    {
+      "year": 1995,
+      "text": "The first game of the PCA World Chess Championship 1995, pitting incumbent champion Garry Kasparov against challenger Viswanathan Anand, takes place on the 107th floor of the World Trade Center's South Tower in New York City.",
+      "type": "event"
+    },
+    {
+      "year": 1992,
+      "text": "Hurricane Iniki strikes the island of Kauaʻi, Hawaii, killing 7 and causing $3.1bn in economic damages.",
+      "type": "event"
+    },
+    {
+      "year": 1991,
+      "text": "Continental Express Flight 2574 crashes in Colorado County, Texas, near Eagle Lake, killing 11 passengers and three crew.",
+      "type": "event"
+    },
+    {
+      "year": 1990,
+      "text": "A Faucett Boeing 727 disappears in the Atlantic Ocean while being flown from Malta to Peru.",
+      "type": "event"
+    },
+    {
+      "year": 1989,
+      "text": "Hungary announces that the East German refugees who had been housed in temporary camps were free to leave for West Germany.",
+      "type": "event"
+    },
+    {
+      "year": 1985,
+      "text": "Moimenta-Alcafache train crash, the worst railway accident to occur in Portugal.",
+      "type": "event"
+    },
+    {
+      "year": 1982,
+      "text": "The international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut. Five days later, several thousand refugees are massacred in the Sabra and Shatila refugee camps by Phalange forces.",
+      "type": "event"
+    },
+    {
+      "year": 1980,
+      "text": "A new constitution of Chile is established under the influence of then Chilean dictator Augusto Pinochet, which is subject to controversy in Chile today.",
+      "type": "event"
+    },
+    {
+      "year": 1976,
+      "text": "A bomb planted by a Croatian terrorist, Zvonko Bušić, is found at New York's Grand Central Terminal; one NYPD officer is killed trying to defuse it.",
+      "type": "event"
+    },
+    {
+      "year": 1974,
+      "text": "Eastern Air Lines Flight 212 crashes in Charlotte, North Carolina, killing 69 passengers and two crew.",
+      "type": "event"
+    },
+    {
+      "year": 1973,
+      "text": "A coup in Chile, headed by General Augusto Pinochet, topples the democratically elected president Salvador Allende.",
+      "type": "event"
+    },
+    {
+      "year": 1973,
+      "text": "JAT Airways Flight 769 crashes into the Maganik mountain range while on approach to Titograd Airport, killing 35 passengers and six crew.",
+      "type": "event"
+    },
+    {
+      "year": 1972,
+      "text": "The San Francisco Bay Area Rapid Transit system begins passenger service.",
+      "type": "event"
+    },
+    {
+      "year": 1971,
+      "text": "The Egyptian Constitution becomes official.",
+      "type": "event"
+    },
+    {
+      "year": 1970,
+      "text": "The Dawson's Field hijackers release 88 of their hostages. The remaining hostages, mostly Jews and Israeli citizens, are held until September 25.",
+      "type": "event"
+    },
+    {
+      "year": 1968,
+      "text": "Air France Flight 1611 crashes off Nice, France, killing 89 passengers and six crew.",
+      "type": "event"
+    },
+    {
+      "year": 1968,
+      "text": "John Eliot Gardiner conducts Monteverdi's Vespro della Beata Vergine with the Monteverdi Choir at the Proms.",
+      "type": "event"
+    },
+    {
+      "year": 1967,
+      "text": "China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.",
+      "type": "event"
+    },
+    {
+      "year": 1965,
+      "text": "Indo-Pakistani War: The Indian Army captures the town of Burki, just southeast of Lahore.",
+      "type": "event"
+    },
+    {
+      "year": 1961,
+      "text": "Hurricane Carla strikes the Texas coast as a Category 4 hurricane, the second strongest storm ever to hit the state.",
+      "type": "event"
+    },
+    {
+      "year": 1954,
+      "text": "Hurricane Edna hits New England (United States) as a Category 2 hurricane, causing significant damage and 29 deaths.",
+      "type": "event"
+    },
+    {
+      "year": 1945,
+      "text": "World War II: Batu Lintang camp, a Japanese-run POW and civilian internment camp on the island of Borneo, is liberated by Australian 9th Division forces.",
+      "type": "event"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: RAF bombing raid on Darmstadt and the following firestorm kill 11,500.",
+      "type": "event"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: German troops occupy Corsica and Kosovo-Metohija ending the Italian occupation of Corsica.",
+      "type": "event"
+    },
+    {
+      "year": 1941,
+      "text": "Construction begins on the Pentagon.",
+      "type": "event"
+    },
+    {
+      "year": 1941,
+      "text": "Charles Lindbergh makes his Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.",
+      "type": "event"
+    },
+    {
+      "year": 1922,
+      "text": "The Treaty of Kars is ratified in Yerevan, Armenia.",
+      "type": "event"
+    },
+    {
+      "year": 1921,
+      "text": "Nahalal, a Jewish moshav in Palestine, is settled.",
+      "type": "event"
+    },
+    {
+      "year": 1919,
+      "text": "United States Marine Corps invades Honduras.",
+      "type": "event"
+    },
+    {
+      "year": 1916,
+      "text": "The Quebec Bridge's central span collapses, killing 11 men. The bridge previously collapsed completely on August 29, 1907.",
+      "type": "event"
+    },
+    {
+      "year": 1914,
+      "text": "World War I: Australia invades German New Guinea, defeating a German contingent at the Battle of Bita Paka.",
+      "type": "event"
+    },
+    {
+      "year": 1914,
+      "text": "The Second Period of Russification: The teaching of the Russian language and Russian history in Finnish schools is ordered to be considerably increased as part of the forced Russification program in Finland run by Tsar Nicholas II.",
+      "type": "event"
+    },
+    {
+      "year": 1905,
+      "text": "The Ninth Avenue derailment occurs in New York City, killing 13.",
+      "type": "event"
+    },
+    {
+      "year": 1903,
+      "text": "The first race at the Milwaukee Mile in West Allis, Wisconsin is held. It is the oldest major speedway in the world.",
+      "type": "event"
+    },
+    {
+      "year": 1897,
+      "text": "After months of pursuit, generals of Menelik II of Ethiopia capture Gaki Sherocho, the last king of the Kaffa.",
+      "type": "event"
+    },
+    {
+      "year": 1881,
+      "text": "In the Swiss state of Glarus, a rockslide buries parts of the village of Elm, destroying 83 buildings and killing 115 people.",
+      "type": "event"
+    },
+    {
+      "year": 1857,
+      "text": "The Mountain Meadows massacre: Mormon settlers and Paiutes massacre 120 pioneers at Mountain Meadows, Utah.",
+      "type": "event"
+    },
+    {
+      "year": 1852,
+      "text": "Outbreak of Revolution of September 11 resulting in the State of Buenos Aires declaring independence as a Republic.",
+      "type": "event"
+    },
+    {
+      "year": 1851,
+      "text": "Christiana Resistance: Escaped slaves led by William Parker fight off and kill a slave owner who, with a federal marshal and an armed party, sought to seize three of his former slaves in Christiana, Pennsylvania, thereby creating a cause célèbre between slavery proponents and abolitionists.",
+      "type": "event"
+    },
+    {
+      "year": 1836,
+      "text": "The Riograndense Republic is proclaimed by rebels after defeating Empire of Brazil's troops in the Battle of Seival, during the Ragamuffin War.",
+      "type": "event"
+    },
+    {
+      "year": 1829,
+      "text": "An expedition led by Isidro Barradas at Tampico, sent by the Spanish crown to retake Mexico, surrenders at the Battle of Tampico, marking the effective end of Spain's resistance to Mexico's campaign for independence.",
+      "type": "event"
+    },
+    {
+      "year": 1814,
+      "text": "War of 1812: The climax of the Battle of Plattsburgh, a major United States victory in the war.",
+      "type": "event"
+    },
+    {
+      "year": 1813,
+      "text": "War of 1812: British troops arrive in Mount Vernon and prepare to march to and invade Washington, D.C.",
+      "type": "event"
+    },
+    {
+      "year": 1803,
+      "text": "The Battle of Delhi, during the Second Anglo-Maratha War, between British troops under General Lake, and Marathas of Scindia's army under General Louis Bourquin ends in a British victory.",
+      "type": "event"
+    },
+    {
+      "year": 1802,
+      "text": "France annexes the Kingdom of Piedmont.",
+      "type": "event"
+    },
+    {
+      "year": 1800,
+      "text": "The Maltese National Congress Battalions are disbanded by British Civil Commissioner Alexander Ball.",
+      "type": "event"
+    },
+    {
+      "year": 1792,
+      "text": "The Hope Diamond is stolen along with other French crown jewels when six men break into the house where they are stored.",
+      "type": "event"
+    },
+    {
+      "year": 1789,
+      "text": "Alexander Hamilton is appointed the first United States Secretary of the Treasury.",
+      "type": "event"
+    },
+    {
+      "year": 1786,
+      "text": "The beginning of the Annapolis Convention.",
+      "type": "event"
+    },
+    {
+      "year": 1780,
+      "text": "American Revolutionary War: Sugarloaf massacre: A small detachment of militia from Northampton County, Pennsylvania, are attacked by Native Americans and Loyalists near Little Nescopeck Creek.",
+      "type": "event"
+    },
+    {
+      "year": 1777,
+      "text": "American Revolutionary War: Battle of Brandywine: The British celebrate a major victory in Chester County, Pennsylvania.",
+      "type": "event"
+    },
+    {
+      "year": 1776,
+      "text": "British–American peace conference on Staten Island fails to stop nascent American Revolutionary War.",
+      "type": "event"
+    },
+    {
+      "year": 1775,
+      "text": "Benedict Arnold's expedition to Quebec leaves Cambridge, Massachusetts.",
+      "type": "event"
+    },
+    {
+      "year": 1758,
+      "text": "Battle of Saint Cast: France repels British invasion during the Seven Years' War.",
+      "type": "event"
+    },
+    {
+      "year": 1714,
+      "text": "Siege of Barcelona: Barcelona, capital city of the Principality of Catalonia, surrenders to Spanish and French Bourbon armies in the War of the Catalans, the last phase of the War of the Spanish Succession.",
+      "type": "event"
+    },
+    {
+      "year": 1709,
+      "text": "Battle of Malplaquet: Great Britain, Netherlands, and Austria fight against France.",
+      "type": "event"
+    },
+    {
+      "year": 1708,
+      "text": "Charles XII of Sweden stops his march to conquer Moscow outside Smolensk, marking the turning point in the Great Northern War. The army is defeated nine months later in the Battle of Poltava, and the Swedish Empire ceases to be a major power.",
+      "type": "event"
+    },
+    {
+      "year": 1697,
+      "text": "Battle of Zenta: a major engagement in the Great Turkish War (1683–1699) and one of the most decisive defeats in Ottoman history.",
+      "type": "event"
+    },
+    {
+      "year": 1683,
+      "text": "Coalition forces, including the famous winged Hussars, led by Polish King John III Sobieski lift the siege laid by Ottoman forces ahead of the Battle of Vienna.",
+      "type": "event"
+    },
+    {
+      "year": 1649,
+      "text": "Siege of Drogheda ends: Oliver Cromwell's Parliamentarian troops take the town and execute its garrison.",
+      "type": "event"
+    },
+    {
+      "year": 1609,
+      "text": "Henry Hudson arrives on Manhattan Island and meets the indigenous people living there.",
+      "type": "event"
+    },
+    {
+      "year": 1565,
+      "text": "Ottoman forces retreat from Malta ending the Great Siege of Malta.",
+      "type": "event"
+    },
+    {
+      "year": 1541,
+      "text": "Santiago, Chile, is attacked by indigenous warriors, led by Michimalonco, to free eight indigenous chiefs held captive by the Spaniards.",
+      "type": "event"
+    },
+    {
+      "year": 1390,
+      "text": "Lithuanian Civil War (1389–1392): The Teutonic Knights begin a five-week siege of Vilnius.",
+      "type": "event"
+    },
+    {
+      "year": 1297,
+      "text": "Battle of Stirling Bridge: Scots jointly led by William Wallace and Andrew Moray defeat the English.",
+      "type": "event"
+    },
+    {
+      "year": 1275,
+      "text": "An earthquake occurred in the south of Great Britain, notably causing multiple fatalities as well as destroying St Michael's Church on Glastonbury Tor.",
+      "type": "event"
+    },
+    {
+      "year": 1185,
+      "text": "Isaac II Angelos kills Stephen Hagiochristophorites and then appeals to the people, resulting in the revolt that deposes Andronikos I Komnenos and places Isaac on the throne of the Byzantine Empire.",
+      "type": "event"
+    },
+    {
+      "year": 9,
+      "text": "The Battle of the Teutoburg Forest ends: The Roman Empire suffers the greatest defeat of its history and the Rhine is established as the border between the Empire and the so-called barbarians for the next four hundred years.",
+      "type": "event"
+    }
+  ],
+  "fetchedBy": "cron-job"
+}
